@@ -5,7 +5,8 @@
 
 <h3>🔥 Interested in</h3>
 
-**Backend, Devops**
+<h4> Backend, DevOps </h4>
+<h4> Docker, k8s, Cloud Native Skill ... </h4>
 
 </br>
 
@@ -16,10 +17,10 @@
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white"></a>
 	</br>
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo=Spring Boot&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo=Spring-Boot&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 </p>
