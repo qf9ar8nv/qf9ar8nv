@@ -5,7 +5,7 @@
 
 <h3>🔥 Interested in</h3>
 
-<h4> Backend, DevOps </h4>
+<h4> Backend, Infrastructure </h4>
 <h4> Docker, k8s, Cloud Native Skill ... </h4>
 
 </br>
